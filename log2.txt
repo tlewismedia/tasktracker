@@ -1,0 +1,10 @@
+POST: Array
+(
+    [newTask] => task 2
+)
+SESSION: Array
+(
+    [uid] => 3
+    [loginUsername] => test123
+    [loginIP] => ::1
+)

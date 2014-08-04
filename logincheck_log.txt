@@ -1,0 +1,11 @@
+POST: Array
+(
+    [username] => test123
+    [password] => 12345678
+)
+SESSION: Array
+(
+    [uid] => 3
+    [loginUsername] => test123
+    [loginIP] => ::1
+)
